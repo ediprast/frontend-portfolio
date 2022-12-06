@@ -63,7 +63,7 @@ export default function Home() {
                 </div>
                 <div>
                   <a
-                    href="https://ediprast.github.io/my_cv.pdf"
+                    href="https://drive.google.com/file/d/1O4EZbRy8PEg-zi2qFK0Q_xMl2-E3KrFb/view?usp=share_link"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-blue-primary underline px-6"
